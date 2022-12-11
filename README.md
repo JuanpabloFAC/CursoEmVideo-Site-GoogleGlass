@@ -1,2 +1,2 @@
 # CursoEmVideo-Site-GoogleGlass
-Esse é um site que desenvolvi no curso de HTML5 oferecido pela plataforma Curso em Vídeo. Em nosso site, temos a aplicação de vários conceitos de HTML, CSS e JavaScript. 
+Esse é um site que desenvolvi no curso de HTML5 oferecido pela plataforma Curso em Vídeo. Em nosso site, temos a aplicação de vários conceitos de HTML, CSS e JavaScript. Alguns conceitos são: Formatação de Texto, Códigos, Imagens, Menus, Links, Tabela, Funções em JS, JS com objetos, Mapas de Imagem, Álbum de fotos com efeitos, Aplicação de vídeos de áudio no site, Vídeos com youtube, Formulários em HTML e Hospedagem de sites.   
